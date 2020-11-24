@@ -1,0 +1,22 @@
+{
+  "name": "kasir-toko-rumah",
+  "version": "1.0.0",
+  "description": "Web aplikasi kasir toko buat toko rumah saya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandhysetyo/kasir-toko-rumah.git"
+  },
+  "keywords": [
+    "kasir"
+  ],
+  "author": "grandhysetyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grandhysetyo/kasir-toko-rumah/issues"
+  },
+  "homepage": "https://github.com/grandhysetyo/kasir-toko-rumah#readme"
+}
